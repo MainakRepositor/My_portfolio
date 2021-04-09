@@ -20,3 +20,4 @@ The main purpose of building this website was to increase my business reach and 
   <li>Github pages (Hosting)</li>
   <li>FormSpree API (For accepting emails and dynamic contact)</li>
   </ol>
+ 
