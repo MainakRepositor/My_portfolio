@@ -5,6 +5,9 @@ My portfolio website
 
 <hr>
 
+## Abstract:
+The main purpose of building this website was to increase my business reach and display my projects as a showcase of my existing skills. This may be helpful for recruiters who want to hire a suitable intern or employee for making a professional website for their companies. Apart from serving the main purpose, the website is also made as simple yet attractive as possible. This will boost up the noticibility. This can also serve as a referrence website template for students or professionals who want to build a portfolio site for themselves.
+
 ## Stack Used : LAMP Stack
 
 ## Techs Used:
