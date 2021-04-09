@@ -21,4 +21,8 @@ The main purpose of building this website was to increase my business reach and 
   <li>FormSpree API (For accepting emails and dynamic contact)</li>
   </ol>
  
-<img src="https://drive.google.com/file/d/1F9gEqJjFJqhIRnSUbqosEptL8zsVoja8/view?usp=sharing">
+<hr>
+
+## The website is hosted at : https://mainakfolio.github.io/
+
+<hr>
